@@ -49,22 +49,36 @@ In this section I list my data analytics projects, briefly describing the techno
 #### [Sleep & Lifestyle Health Analysis](https://github.com/Y4SH4SKOTIAN/sleep_and_lifestyle_health_analysis_report)
 
 - **Code:** [Sleep_Health_Care_SQL.sql](https://github.com/Y4SH4SKOTIAN/sleep_and_lifestyle_health_analysis_report/blob/main/Sleep_Health_Care_SQL.sql)
+  
 - **Dashboard:** [Sleep & Life Health Care Analisis.pbix](https://github.com/Y4SH4SKOTIAN/sleep_and_lifestyle_health_analysis_report/blob/main/Sleep%20%26%20Life%20Health%20Care%20Analisis.pbix)
+  
 - **Goal:** Explore how sleep habits, stress levels, physical activity, and health indicators connect, and identify which groups may need more support.
+  
 - **Description:** Cleaned a 374-record dataset in Excel (snake_case column names, engineered `age_group`, `stress_category`, and `bp_category` fields) then used SQL to analyze sleep disorder distribution, average sleep duration by disorder/age group/occupation, stress levels, and blood pressure categories. Built a Power BI dashboard with KPIs and visuals including a sleep-disorder donut chart, heart-rate-vs-sleep-duration scatter plot, and daily steps by disorder type.
+  
 - **Skills:** data cleaning, feature engineering, SQL aggregations, dashboard design, analytical storytelling
+  
 - **Technology:** Excel, SQL, Power BI
+  
 - **Results:** Middle-aged adults report the highest stress; longer sleep correlates with lower heart rate; prehypertension is the most common BP category; users with sleep apnea walk the most daily steps.
+  
 
 #### [Customer Shopping Behavior Analysis](https://github.com/Y4SH4SKOTIAN/customer_shopping_behavior_analysis)
 
 - **Code:** [customer_behavior_sql_query.sql](https://github.com/Y4SH4SKOTIAN/customer_shopping_behavior_analysis/blob/main/customer_behavior_sql_query.sql)
+  
 - **Dashboard:** [Customer_Shopping.pbix](https://github.com/Y4SH4SKOTIAN/customer_shopping_behavior_analysis/blob/main/Customer_Shopping.pbix)
+  
 - **Goal:** Understand revenue drivers, customer purchasing behavior, and product performance from transactional retail data.
+  
 - **Description:** Imported 3,900 transaction records (18 columns covering demographics, purchase details, and behavior) into MySQL, standardized column names, and wrote queries to answer business questions on top revenue categories, highest-spending age groups, and seasonal sales trends. Built an interactive Power BI dashboard with revenue and customer KPIs, category-wise revenue, spending by age/gender, and seasonal and payment trend breakdowns, then summarized findings in a written business report.
+  
 - **Skills:** SQL querying, data cleaning, dashboard design, business reporting
+  
 - **Technology:** SQL, Excel, Power BI
+  
 - **Results:** Clothing generates the highest revenue; customers aged 46–60 spend the most; unsubscribed users outspend subscribed ones; PayPal is the preferred payment method; fall is the peak sales season.
+- 
 
 ## Education
 
