@@ -1,4 +1,4 @@
-# 👋 Yashas M — Data Analytics Portfolio
+# Yashas M — Data Analytics Portfolio
 
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
@@ -35,49 +35,64 @@ In this section I list my data analytics projects, briefly describing the techno
 
 ### 🗄️ SQL + Power BI
 
-### 🍽️ [Restaurant Data Analysis](https://github.com/yashas-analyst/Restaurant-Data-Analysis)
+## 🍽️ [Restaurant Data Analysis](https://github.com/yashas-analyst/Restaurant-Data-Analysis)
 
-![Restaurant Dashboard](https://github.com/yashas-analyst/Restaurant-Data-Analysis/raw/main/Screenshot%202026-01-29%20113540.png)
 
 - 💻 **Code:** [Restaurant Data Analysis.sql](https://github.com/yashas-analyst/Restaurant-Data-Analysis/blob/main/Restaurant%20Data%20Analysis.sql)
+  
 - 📊 **Dashboard:** [Restaurant_Dashboard.pbix](https://github.com/yashas-analyst/Restaurant-Data-Analysis/blob/main/Restaurant_Dashboard.pbix)
+  
 - 🎯 **Goal:** Analyze restaurant data to identify trends in cuisines, pricing, ratings, online delivery, table booking, and restaurant chains.
+  
 - 📝 **Description:** Worked with a dataset of ~9,500 restaurants across 21 columns. Validated the data for nulls, standardized column names, and checked numeric/categorical fields in SQL before analyzing top cuisines, city-wise restaurant counts, price distribution, and the relationship between online delivery and ratings. Built a Power BI dashboard with KPIs (total restaurants, average rating, average votes, delivery %, booking %) and interactive slicers by city, delivery, and booking status.
+  
 - 🛠️ **Skills:** data validation, SQL aggregations, dashboard design, business insight generation
+  
 - ⚙️ **Technology:** SQL, Power BI
+  
 - 🔍 **Results:** Most restaurants sit in the budget price tier; only ~26% offer online delivery but those restaurants rate higher; North Indian cuisine dominates; higher-priced restaurants offer more table booking.
 
-### 😴 [Sleep & Lifestyle Health Analysis](https://github.com/yashas-analyst/sleep_and_lifestyle_health_analysis_report)
+  
 
-![Sleep Health Dashboard](https://github.com/yashas-analyst/sleep_and_lifestyle_health_analysis_report/raw/main/dashboard-screenshot.png)
+## 😴 [Sleep & Lifestyle Health Analysis](https://github.com/yashas-analyst/sleep_and_lifestyle_health_analysis_report)
+
+
 
 - 💻 **Code:** [Sleep_Health_Care_SQL.sql](https://github.com/yashas-analyst/sleep_and_lifestyle_health_analysis_report/blob/main/Sleep_Health_Care_SQL.sql)
+  
 - 📊 **Dashboard:** [Sleep & Life Health Care Analisis.pbix](https://github.com/yashas-analyst/sleep_and_lifestyle_health_analysis_report/blob/main/Sleep%20%26%20Life%20Health%20Care%20Analisis.pbix)
+  
 - 🎯 **Goal:** Explore how sleep habits, stress levels, physical activity, and health indicators connect, and identify which groups may need more support.
+  
 - 📝 **Description:** Cleaned a 374-record dataset in Excel (snake_case column names, engineered `age_group`, `stress_category`, and `bp_category` fields) then used SQL to analyze sleep disorder distribution, average sleep duration by disorder/age group/occupation, stress levels, and blood pressure categories. Built a Power BI dashboard with KPIs and visuals including a sleep-disorder donut chart, heart-rate-vs-sleep-duration scatter plot, and daily steps by disorder type.
+  
 - 🛠️ **Skills:** data cleaning, feature engineering, SQL aggregations, dashboard design, analytical storytelling
+  
 - ⚙️ **Technology:** Excel, SQL, Power BI
+  
 - 🔍 **Results:** Middle-aged adults report the highest stress; longer sleep correlates with lower heart rate; prehypertension is the most common BP category; users with sleep apnea walk the most daily steps.
 
-### 🛍️ [Customer Shopping Behavior Analysis](https://github.com/yashas-analyst/customer_shopping_behavior_analysis)
+  
 
-![Customer Shopping Dashboard](https://github.com/yashas-analyst/customer_shopping_behavior_analysis/raw/main/dashboard-screenshot.png)
+## 🛍️ [Customer Shopping Behavior Analysis](https://github.com/yashas-analyst/customer_shopping_behavior_analysis)
+
+
 
 - 💻 **Code:** [customer_behavior_sql_query.sql](https://github.com/yashas-analyst/customer_shopping_behavior_analysis/blob/main/customer_behavior_sql_query.sql)
+  
 - 📊 **Dashboard:** [Customer_Shopping.pbix](https://github.com/yashas-analyst/customer_shopping_behavior_analysis/blob/main/Customer_Shopping.pbix)
+  
 - 🎯 **Goal:** Understand revenue drivers, customer purchasing behavior, and product performance from transactional retail data.
+  
 - 📝 **Description:** Imported 3,900 transaction records (18 columns covering demographics, purchase details, and behavior) into MySQL, standardized column names, and wrote queries to answer business questions on top revenue categories, highest-spending age groups, and seasonal sales trends. Built an interactive Power BI dashboard with revenue and customer KPIs, category-wise revenue, spending by age/gender, and seasonal and payment trend breakdowns, then summarized findings in a written business report.
+  
 - 🛠️ **Skills:** SQL querying, data cleaning, dashboard design, business reporting
+  
 - ⚙️ **Technology:** SQL, Excel, Power BI
+  
 - 🔍 **Results:** Clothing generates the highest revenue; customers aged 46–60 spend the most; unsubscribed users outspend subscribed ones; PayPal is the preferred payment method; fall is the peak sales season.
 
-### 🐍 Python
 
-*Coming soon — a Python-based project is currently in progress.* 🚧
-
-### 📊 Excel / Google Sheets
-
-*Coming soon — an Excel-based project is currently in progress.* 🚧
 
 ## 🎓 Education
 
