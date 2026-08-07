@@ -8,7 +8,7 @@ I work with SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, and Power B
 
 Outside of data, I follow football history and tactics closely, and I trade forex/gold using Smart Money Concepts (SMC) — both of which sharpen the same pattern-recognition and systems-thinking mindset I bring to analytics.
 
-My CV in [pdf](Yashas_Resume.pdf).
+My Resume in [pdf](Yashas_Resume.pdf).
 
 This is a repository to showcase skills, share projects, and track my progress in data analytics.
 
@@ -32,11 +32,17 @@ In this section I list my data analytics projects, briefly describing the techno
 #### [Restaurant Data Analysis](https://github.com/Y4SH4SKOTIAN/Restaurant-Data-Analysis)
 
 - **Code:** [Restaurant Data Analysis.sql](https://github.com/Y4SH4SKOTIAN/Restaurant-Data-Analysis/blob/main/Restaurant%20Data%20Analysis.sql)
+- 
 - **Dashboard:** [Restaurant_Dashboard.pbix](https://github.com/Y4SH4SKOTIAN/Restaurant-Data-Analysis/blob/main/Restaurant_Dashboard.pbix)
+- 
 - **Goal:** Analyze restaurant data to identify trends in cuisines, pricing, ratings, online delivery, table booking, and restaurant chains.
+- 
 - **Description:** Worked with a dataset of ~9,500 restaurants across 21 columns. Validated the data for nulls, standardized column names, and checked numeric/categorical fields in SQL before analyzing top cuisines, city-wise restaurant counts, price distribution, and the relationship between online delivery and ratings. Built a Power BI dashboard with KPIs (total restaurants, average rating, average votes, delivery %, booking %) and interactive slicers by city, delivery, and booking status.
+- 
 - **Skills:** data validation, SQL aggregations, dashboard design, business insight generation
+- 
 - **Technology:** SQL, Power BI
+- 
 - **Results:** Most restaurants sit in the budget price tier; only ~26% offer online delivery but those restaurants rate higher; North Indian cuisine dominates; higher-priced restaurants offer more table booking.
 
 #### [Sleep & Lifestyle Health Analysis](https://github.com/Y4SH4SKOTIAN/sleep_and_lifestyle_health_analysis_report)
@@ -58,26 +64,6 @@ In this section I list my data analytics projects, briefly describing the techno
 - **Skills:** SQL querying, data cleaning, dashboard design, business reporting
 - **Technology:** SQL, Excel, Power BI
 - **Results:** Clothing generates the highest revenue; customers aged 46–60 spend the most; unsubscribed users outspend subscribed ones; PayPal is the preferred payment method; fall is the peak sales season.
-
-### Python
-
-#### [Project Name]
-
-- **Code:** `project-notebook.ipynb`
-- **Goal:** <!-- what question the project answers -->
-- **Description:** <!-- dataset, steps taken (cleaning, EDA, analysis) -->
-- **Skills:** data cleaning, EDA, data visualization
-- **Technology:** Python, Pandas, NumPy, Matplotlib, Seaborn
-- **Results:** <!-- key finding -->
-
-### Excel / Google Sheets
-
-#### [E-commerce Portfolio Workbook]
-
-- **Goal:** <!-- what the workbook demonstrates -->
-- **Description:** Structured Excel practice workbook built alongside the e-commerce portfolio project.
-- **Skills:** formulas, pivot tables, data cleaning
-- **Technology:** Excel
 
 ## Education
 
