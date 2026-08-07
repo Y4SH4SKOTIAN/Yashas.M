@@ -46,6 +46,7 @@ In this section I list my data analytics projects, briefly describing the techno
   
 - **Results:** Most restaurants sit in the budget price tier; only ~26% offer online delivery but those restaurants rate higher; North Indian cuisine dominates; higher-priced restaurants offer more table booking.
   
+  
 
 ## [Sleep & Lifestyle Health Analysis](https://github.com/Y4SH4SKOTIAN/sleep_and_lifestyle_health_analysis_report)
 
@@ -62,6 +63,7 @@ In this section I list my data analytics projects, briefly describing the techno
 - **Technology:** Excel, SQL, Power BI
   
 - **Results:** Middle-aged adults report the highest stress; longer sleep correlates with lower heart rate; prehypertension is the most common BP category; users with sleep apnea walk the most daily steps.
+  
   
 
 ## [Customer Shopping Behavior Analysis](https://github.com/Y4SH4SKOTIAN/customer_shopping_behavior_analysis)
