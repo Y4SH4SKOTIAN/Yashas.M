@@ -1,6 +1,4 @@
-# Yashas.M
-# 💫 About Me:
-I’m Yashas — a data enthusiast exploring the world of analytics.<br>I work with SQL, Excel, and Power BI to clean, explore, and visualize data through simple, insightful dashboards. Currently, I’m sharpening my skills in statistics, SQL joins, and Power BI (DAX & Power Query) while working on public datasets and mini-projects.<br><br>Outside data, photography fuels my eye for detail, and FX trading builds my discipline and analytical mindset. I’m open to internships or entry-level roles where I can grow and add real value.
+Yashas M — Data Analytics Portfolio About Hi, I'm Yashas! I hold a B.Com in Accounting and Finance and am currently transitioning into data analytics, bringing a strong foundation in financial reasoning and numbers to the world of data. I work with SQL, Python (Pandas, NumPy, Matplotlib, Seaborn), Excel, and Power BI to clean, explore, and visualize data, and I have basic working familiarity with cloud platforms (AWS, Azure). I recently received a Letter of Intent from Cognizant for a GenC Analyst Trainee role. Outside of data, I follow football history and tactics closely, and I trade forex/gold using Smart Money Concepts (SMC) — both of which sharpen the same pattern-recognition and systems-thinking mindset I bring to analytics. My CV in pdf. <!-- add link to your resume --> This is a repository to showcase skills, share projects, and track my progress in data analytics.
 
 
 ## 🌐 Socials:
