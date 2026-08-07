@@ -79,7 +79,7 @@ In this section I list my data analytics projects, briefly describing the techno
 - **Technology:** SQL, Excel, Power BI
   
 - **Results:** Clothing generates the highest revenue; customers aged 46–60 spend the most; unsubscribed users outspend subscribed ones; PayPal is the preferred payment method; fall is the peak sales season.
-- 
+  
 
 ## Education
 
